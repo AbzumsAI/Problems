@@ -8,7 +8,7 @@ The purpose of this repository is to demonstrate that mathematics can be effecti
 
 Feel free to explore, experiment, and use these examples to deepen your understanding!
 
-- Session 1: A review on High School Math with a focus on algebra
+- Session 1: A review of High School Math with a focus on algebra
   - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s1p1.py)
   - [Problem 2](https://github.com/AbzumsAI/problems/blob/main/s1p2.py)
   - [Problem 3](https://github.com/AbzumsAI/problems/blob/main/s1p3.py)
