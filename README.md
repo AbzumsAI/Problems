@@ -16,4 +16,14 @@ Feel free to explore, experiment, and use these examples to deepen your understa
   - [Problem 5](https://github.com/AbzumsAI/problems/blob/main/s1p5.py)
 
 - Session 2: Functions, part 1
-  - P...
+  - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s2p1.py)
+  - [Problem 2](https://github.com/AbzumsAI/problems/blob/main/s2p2.py)
+  - [Problem 3](https://github.com/AbzumsAI/problems/blob/main/s2p3.py)
+  - [Problem 4](https://github.com/AbzumsAI/problems/blob/main/s2p4.py)
+  - [Problem 5](https://github.com/AbzumsAI/problems/blob/main/s2p5.py)
+  - [Problem 6](https://github.com/AbzumsAI/problems/blob/main/s2p6.py)
+  - [Problem 7-8](https://github.com/AbzumsAI/problems/blob/main/s2p7-8.py)
+  - [Problem 9](https://github.com/AbzumsAI/problems/blob/main/s2p9.py)
+  - [Problem 10](https://github.com/AbzumsAI/problems/blob/main/s2p10.py)
+  - [Problem 11](https://github.com/AbzumsAI/problems/blob/main/s2p11.py)
+  - [Problem scoring](https://github.com/AbzumsAI/problems/blob/main/s2p-scoring.py)
