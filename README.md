@@ -27,3 +27,8 @@ Feel free to explore, experiment, and use these examples to deepen your understa
   - [Problem 10](https://github.com/AbzumsAI/problems/blob/main/s2p10.py)
   - [Problem 11](https://github.com/AbzumsAI/problems/blob/main/s2p11.py)
   - [Problem scoring](https://github.com/AbzumsAI/problems/blob/main/s2p-scoring.py)
+ 
+- Session 3: Functions. part 2
+  - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p1.py)
+  - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p2.py)
+  - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p-scoring.py)
