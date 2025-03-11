@@ -30,8 +30,8 @@ Feel free to explore, experiment, and use these examples to deepen your understa
  
 - Session 3: Functions, part 2
   - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p1.py)
-  - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p2.py)
-  - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p-scoring.py)
+  - [Problem 2](https://github.com/AbzumsAI/problems/blob/main/s3p2.py)
+  - [Problem scoring](https://github.com/AbzumsAI/problems/blob/main/s3p-scoring.py)
  
 - Session 4: Limits & Continuity, part 1
   - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s4p1.py)
