@@ -28,7 +28,21 @@ Feel free to explore, experiment, and use these examples to deepen your understa
   - [Problem 11](https://github.com/AbzumsAI/problems/blob/main/s2p11.py)
   - [Problem scoring](https://github.com/AbzumsAI/problems/blob/main/s2p-scoring.py)
  
-- Session 3: Functions. part 2
+- Session 3: Functions, part 2
   - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p1.py)
   - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p2.py)
   - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s3p-scoring.py)
+ 
+- Session 4: Limits & Continuity, part 1
+  - [Problem 1](https://github.com/AbzumsAI/problems/blob/main/s4p1.py)
+  - [Problem 2](https://github.com/AbzumsAI/problems/blob/main/s4p2.py)
+  - [Problem 3](https://github.com/AbzumsAI/problems/blob/main/s4p3.py)
+  - [Problem 4](https://github.com/AbzumsAI/problems/blob/main/s4p4.py)
+  - [Problem 5](https://github.com/AbzumsAI/problems/blob/main/s4p5.py)
+  - [Problem 6](https://github.com/AbzumsAI/problems/blob/main/s4p6.py)
+  - [Problem 7](https://github.com/AbzumsAI/problems/blob/main/s4p7.py)
+  - [Problem 8](https://github.com/AbzumsAI/problems/blob/main/s4p8.py)
+  - [Problem 9](https://github.com/AbzumsAI/problems/blob/main/s4p9.py)
+  - [Problem 10](https://github.com/AbzumsAI/problems/blob/main/s4p10.py)
+
+
