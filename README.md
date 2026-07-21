@@ -24,6 +24,11 @@ python s1p1.py
 
 Some scripts print symbolic answers with SymPy. A few scripts draw plots with NumPy and Matplotlib.
 
+## Extra Examples
+
+- [Clinic project](clinic_project.py) is a cleaned class project for patient records and appointments.
+- [OpenFDA drug lookup](openfda_drug_lookup.py) is a cleaned API parsing example from the chat export.
+
 ## Sessions
 
 ### Session 1: High School Math Review
