@@ -4,7 +4,9 @@ I use this table as the quick map for the Python files.
 
 | File | Bytes |
 | --- | ---: |
+| clinic_project.py | 3564 |
 | func.py | 407 |
+| openfda_drug_lookup.py | 2197 |
 | s1p1.py | 464 |
 | s1p2.py | 480 |
 | s1p3.py | 301 |
