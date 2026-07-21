@@ -69,4 +69,13 @@ Some scripts print symbolic answers with SymPy. A few scripts draw plots with Nu
 
 The scoring files are still placeholders.
 
+## Extra Notes
+
+- `docs/problem-index.md` lists the Python files and sizes.
+- `notes` has one short note for each script.
+- `docs/running-scripts.md` explains how I run examples.
+- `docs/review-check.md` is the check I use before committing code examples.
+- `scripts/compile_problem_files.py` compiles the root Python files.
+- `tests` has small checks for file names, requirements, and Python syntax.
+
 
