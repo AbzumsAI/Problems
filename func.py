@@ -2,6 +2,7 @@
 # this is how we define "function" in python:
 def function_name(parameters):
     # Function body
+    pass
 
 # example 1
 def greeting(name):
